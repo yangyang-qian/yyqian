@@ -29,8 +29,8 @@ bio: My research interests include cooperative control, multi-agent systems, cyb
 
 # Interests to show in About widget
 interests:
-  - Theory: distributed control, event-triggered control and communication, system identification and adaptive control, iterative algorithms for analysis and design of control systems, cyber-physical systems, multi-agent systems, autonomous systems, multi-agent differential games, and reinforcement learning
-  - Applications: cooperative control of microgrids, modeling and control of networked power buffer systems, distributed management of battery energy storage systems, and coordination of sensor/robotics networks 
+  - Theory -- distributed control, event-triggered control and communication, system identification and adaptive control, iterative algorithms for analysis and design of control systems, cyber-physical systems, multi-agent systems, autonomous systems, multi-agent differential games, and reinforcement learning
+  - Applications -- cooperative control of microgrids, modeling and control of networked power buffer systems, distributed management of battery energy storage systems, and coordination of sensor/robotics networks 
 
 # Education to show in About widget
 education:
