@@ -3,7 +3,7 @@
 title: Yangyang Qian
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yangyang
